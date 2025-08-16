@@ -1,9 +1,6 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#1e90ff;">Zahra Maryam</span>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Zahra+Maryam;Full-Stack+Developer+💻;AI+/+ML+Explorer+🤖;Tech+Enthusiast+🚀" alt="Typing SVG" />
 </h1>
-<h3 align="center" style="color:#b0b0b0;">
-  💻 Software Engineer | Full-Stack Developer | AI/ML Enthusiast 🚀
-</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding gif"/>
@@ -11,60 +8,70 @@
 
 ---
 
-### 🌟 About Me
-- 🚀 Passionate about **building scalable web & mobile apps** and exploring **AI/ML**  
-- 🔭 Currently working as a **Frontend Developer (React Native)**  
-- 🤖 Fascinated by **Computer Vision, NLP, and Generative AI**  
-- 🎨 Love designing **intuitive UIs** with **Figma, Tailwind & Material UI**  
-- 🌐 Portfolio: [zahra-maryam-portfolio.vercel.app](https://zahra-maryam-portfolio.vercel.app/)  
+## 🌟 About Me  
+
+✨ I’m a **Software Engineer** passionate about building **scalable apps & AI-powered solutions**.  
+🎨 I love designing smooth UI/UX experiences & turning ideas into reality.  
+🚀 Exploring **Computer Vision, NLP & Generative AI**.  
+🎧 Fun fact: My best debugging sessions happen with **lofi beats** in the background.  
 
 ---
 
-### 💼 Experience
-- **Frontend Developer @ FAS Logistics (2025 – Present)**  
-  Building a logistics mobile app with **React Native**, real-time updates, and interactive UI.  
+## 🚀 Featured Projects  
 
-- **Frontend Developer @ Cansol Consulting (2024)**  
-  Designed & developed a **GRC Tool UI** in **Figma + React.js (Material UI)**.  
-
-- **AI & MERN Developer @ Inotech Solutions (2024)**  
-  Built **LinguaVault**: a web app for **voice matching, transcription & translation** using Hugging Face AI.  
+🔹 **Intelligent Vision** – AI assistive tool for visually impaired (real-time detection + voice commands).  
+🔹 **Munchify** – MERN food ordering platform with **Google Maps API & JWT Auth**.  
+🔹 **MusicPlayer App** – Spotify-like MERN app with **CRUD playlists + Cloudinary integration**.  
 
 ---
 
-### 🚀 Featured Projects
-✨ **Intelligent Vision** – AI-powered assistive solution for the visually impaired  
-> 🟢 Object detection, distance estimation, and voice-command navigation  
+## 🛠️ Tech Stack  
 
-🍔 **Munchify** – MERN food website  
-> 🟢 Google Maps API, JWT Auth, smooth ordering process  
-
-🎶 **MusicPlayer App** – Spotify-like MERN app  
-> 🟢 CRUD playlists, Cloudinary media storage, JWT Auth  
-
----
-
-### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,express,mongodb,mysql,python,java,cpp,tailwind,bootstrap,figma,docker,postman,git" />
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,nodejs,express,mongodb,mysql,python,java,cpp,tailwind,bootstrap,figma,docker,postman,git&perline=9" />
 </p>
 
 ---
 
-### ⚡ Fun GitHub Stats
+## 📊 GitHub Vibes  
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahramarym&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zahramarym&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahramarym&theme=tokyonight&hide_border=true" height="150"/>
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahramarym&theme=radical" alt="GitHub Streak"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahramarym&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahramarym&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
-### 🌐 Connect With Me
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahramarym&theme=tokyo-night&bg_color=000000&color=38bdae&line=38bdae&point=ffffff" alt="Activity Graph"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zahramarym&theme=onestar&margin-w=10&margin-h=10&no-frame=true" />
+</p>
+
+---
+
+## ✨ Random Dev Quote  
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+</p>
+
+---
+
+## 🌐 Connect With Me  
+
 <p align="center">
   <a href="https://linkedin.com/in/zahra-maryam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -86,4 +93,4 @@
   <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Working gif"/>
 </p>
 
-<h3 align="center">✨ "Code. Learn. Build. Repeat." ✨</h3>
+<h3 align="center">🌌 "Eat 🍕 | Sleep 😴 | Code 💻 | Repeat 🔁" 🌌</h3>
