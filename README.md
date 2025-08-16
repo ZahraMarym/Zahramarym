@@ -1,27 +1,31 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00ff,100:00ffff&height=200&section=header&text=Zahra%20Maryam&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35" alt="Neon Banner"/>
+</p>
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDAE&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Zahra+Maryam;Full-Stack+Developer+💻;AI+/+ML+Explorer+🤖;Tech+Enthusiast+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=38BDAE&center=true&vCenter=true&width=650&lines=Hi+👋,+I'm+Zahra+Maryam;Full-Stack+Developer+💻;AI+/+ML+Explorer+🤖;Tech+Enthusiast+🚀" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="Coding gif"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="350" alt="Coding gif"/>
 </p>
 
 ---
 
 ## 🌟 About Me  
 
-✨ I’m a **Software Engineer** passionate about building **scalable apps & AI-powered solutions**.  
-🎨 I love designing smooth UI/UX experiences & turning ideas into reality.  
+✨ A **Software Engineer** passionate about **building scalable apps & AI-powered solutions**.  
+🎨 Love crafting **smooth UIs/UX** with Figma + Tailwind + Material UI.  
 🚀 Exploring **Computer Vision, NLP & Generative AI**.  
-🎧 Fun fact: My best debugging sessions happen with **lofi beats** in the background.  
+🎧 Debugging + **Lofi Beats** = ✨ Magic ✨.  
 
 ---
 
 ## 🚀 Featured Projects  
 
-🔹 **Intelligent Vision** – AI assistive tool for visually impaired (real-time detection + voice commands).  
-🔹 **Munchify** – MERN food ordering platform with **Google Maps API & JWT Auth**.  
-🔹 **MusicPlayer App** – Spotify-like MERN app with **CRUD playlists + Cloudinary integration**.  
+🔹 **Intelligent Vision** – AI assistive tool for visually impaired *(real-time detection + voice commands)*  
+🔹 **Munchify** – MERN food ordering platform with **Google Maps API & JWT Auth**  
+🔹 **MusicPlayer App** – Spotify-like MERN app with **CRUD playlists + Cloudinary integration**  
 
 ---
 
@@ -36,12 +40,12 @@
 ## 📊 GitHub Vibes  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zahramarym&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahramarym&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zahramarym&show_icons=true&theme=radical&hide_border=true&bg_color=000000&title_color=ff00ff&icon_color=00ffff&text_color=ffffff" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=zahramarym&theme=radical&hide_border=true&background=000000&ring=ff00ff&fire=00ffff&currStreakLabel=ffffff" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahramarym&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zahramarym&layout=compact&theme=radical&hide_border=true&bg_color=000000&title_color=ff00ff&text_color=ffffff" height="150"/>
 </p>
 
 ---
@@ -49,7 +53,7 @@
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahramarym&theme=tokyo-night&bg_color=000000&color=38bdae&line=38bdae&point=ffffff" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=zahramarym&theme=tokyo-night&bg_color=000000&color=00ffff&line=ff00ff&point=ffffff" alt="Activity Graph"/>
 </p>
 
 ---
@@ -57,7 +61,7 @@
 ## 🏆 GitHub Achievements  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zahramarym&theme=onestar&margin-w=10&margin-h=10&no-frame=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=zahramarym&theme=radical&no-frame=true&row=1&column=7&margin-w=5&margin-h=5" />
 </p>
 
 ---
@@ -65,7 +69,7 @@
 ## ✨ Random Dev Quote  
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Dev Quote"/>
 </p>
 
 ---
@@ -90,7 +94,11 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="200" alt="Working gif"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="220" alt="Working gif"/>
 </p>
 
 <h3 align="center">🌌 "Eat 🍕 | Sleep 😴 | Code 💻 | Repeat 🔁" 🌌</h3>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ffff,100:ff00ff&height=120&section=footer"/>
+</p>
